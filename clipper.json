@@ -1,0 +1,209 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"Position / Team",
+    "FIELD4":"DTF",
+    "FIELD5":"DIF",
+    "FIELD6":"Dist Mg in 12 hr",
+    "FIELD7":"Last Report",
+    "FIELD8":"Yacht Status",
+    "FIELD9":"Finish Time",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"1",
+    "FIELD4":"165.14006",
+    "FIELD5":"3118.17NM",
+    "FIELD6":"",
+    "FIELD7":"80NM",
+    "FIELD8":"07 April 2018 03.00 (UTC)",
+    "FIELD9":"racing",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"2",
+    "FIELD4":"164.31086",
+    "FIELD5":"3143.49NM",
+    "FIELD6":"-25.32NM",
+    "FIELD7":"71NM",
+    "FIELD8":"07 April 2018 03.00 (UTC)",
+    "FIELD9":"racing",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"3",
+    "FIELD4":"165.29088",
+    "FIELD5":"3149.88NM",
+    "FIELD6":"-31.71NM",
+    "FIELD7":"87NM",
+    "FIELD8":"07 April 2018 03.00 (UTC)",
+    "FIELD9":"racing",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"4",
+    "FIELD4":"165.10787",
+    "FIELD5":"3152.18NM",
+    "FIELD6":"-34.01NM",
+    "FIELD7":"95NM",
+    "FIELD8":"07 April 2018 03.00 (UTC)",
+    "FIELD9":"racing",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"5",
+    "FIELD4":"164.81486",
+    "FIELD5":"3157.59NM",
+    "FIELD6":"-39.42NM",
+    "FIELD7":"73NM",
+    "FIELD8":"07 April 2018 03.00 (UTC)",
+    "FIELD9":"racing",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"6",
+    "FIELD4":"164.17741",
+    "FIELD5":"3168.52NM",
+    "FIELD6":"-50.35NM",
+    "FIELD7":"49NM",
+    "FIELD8":"07 April 2018 03.00 (UTC)",
+    "FIELD9":"racing",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"7",
+    "FIELD4":"163.46359",
+    "FIELD5":"3175.59NM",
+    "FIELD6":"-57.42NM",
+    "FIELD7":"69NM",
+    "FIELD8":"07 April 2018 03.00 (UTC)",
+    "FIELD9":"racing",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"8",
+    "FIELD4":"162.99452",
+    "FIELD5":"3204.94NM",
+    "FIELD6":"-86.77NM",
+    "FIELD7":"60NM",
+    "FIELD8":"07 April 2018 03.00 (UTC)",
+    "FIELD9":"racing",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"9",
+    "FIELD4":"162.18851",
+    "FIELD5":"3255.81NM",
+    "FIELD6":"-137.64NM",
+    "FIELD7":"72NM",
+    "FIELD8":"07 April 2018 03.00 (UTC)",
+    "FIELD9":"racing",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"10",
+    "FIELD4":"160.05842",
+    "FIELD5":"3339.38NM",
+    "FIELD6":"-221.21NM",
+    "FIELD7":"109NM",
+    "FIELD8":"07 April 2018 03.00 (UTC)",
+    "FIELD9":"racing",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"11",
+    "FIELD4":"159.39865",
+    "FIELD5":"3382.98NM",
+    "FIELD6":"-264.81NM",
+    "FIELD7":"79NM",
+    "FIELD8":"07 April 2018 02.00 (UTC)",
+    "FIELD9":"racing",
+    "FIELD10":""
+    }
+  }
+]
+}
